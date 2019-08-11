@@ -1,0 +1,74 @@
+.mainHeader{
+    background: url(../img/restaurante.jpg); 
+    background-size: cover;
+     min-height: 400px;
+   
+}
+
+.videoMargin{
+    margin-top: 50px;
+}
+
+.blackBackground{
+    background-color: rgba(149, 165, 166,.1);
+    margin-top: 150px;
+    margin-left: 50px;
+    min-height: 190px;
+    
+    
+}
+
+footer{
+    color: whitesmoke;
+    background-color: #335DCC;
+    height: 100px;
+    
+}
+
+.aboutUs{
+    background: url(../img/restaurante.jpg); 
+    background-size: cover;
+     min-height: 200px;
+}
+.whitecolor{
+    color: whitesmoke
+}
+.blueColor{
+    color: #335DCC;
+}
+
+.yellowColor{
+  
+    background-color:	#FFA404;
+    height: 70px;
+    margin:auto;
+   
+}
+.blueBackground{
+    background-color: #335DCC;
+    height: 220px;
+    
+}
+
+.centerIcon{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px
+}
+
+.autoCenter{
+    margin-top: 100px;
+    margin-bottom: 25px;
+   
+}
+
+.align-items-center {
+    -ms-flex-align: center!important;
+    align-items: center!important;
+  }
+  .d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+  }
+
+ 
